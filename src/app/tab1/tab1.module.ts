@@ -5,7 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { Tab1Page } from './tab1.page';
 
 import { Tab1PageRoutingModule } from './tab1-routing.module';
-import {HeaderComponentModule} from '../header/header.module';
+import {HeaderComponentModule} from '../component/header/header.module';
 
 @NgModule({
   imports: [

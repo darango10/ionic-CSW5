@@ -6,7 +6,7 @@ import { FormsModule } from '@angular/forms';
 import { Tab3Page } from './tab3.page';
 
 import { Tab3PageRoutingModule } from './tab3-routing.module';
-import {HeaderComponentModule} from '../header/header.module';
+import {HeaderComponentModule} from '../component/header/header.module';
 
 @NgModule({
   imports: [
